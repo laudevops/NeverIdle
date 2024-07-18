@@ -2,13 +2,12 @@
 
 [**Español**](README_ES.md) | **English** | [**简体中文**](README.md)
 
-*I love you, but do not stop my machine, could you?*
+
 
 ---
 
 **To non-Chinese users:**
 
-Thank you for liking this program! :-P  
 I invented this to share among my Chinese friends at first, but I didn't expect it to become popular in the world.  
 Also, I'm sorry for the late official English README! Now just enjoy it. :-D
 
